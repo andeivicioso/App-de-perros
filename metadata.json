@@ -1,0 +1,6 @@
+{
+  "name": "DoggoMatch - ¿Qué raza de perro eres?",
+  "description": "Descubre de forma divertida a qué raza de perro te pareces subiendo una foto, con explicaciones cómicas y análisis detallado.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
